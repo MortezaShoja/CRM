@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ParsContract">
+</Property><Property Name="Solution File" Value="D:\Programming\Mehregan\Mehregan\ParsContract.sln">
+</Property><Property Name="User Options File" Value="D:\Programming\Mehregan\Mehregan\ParsContract.suo">
+</Property><Property Name="Date" Value="Saturday, July 05, 2014">
+</Property><Property Name="Time" Value="12:00 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ParsContract.sln" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\ParsContract.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ParsContract.suo" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\ParsContract.suo">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="ParsContract.vbproj" Description="Project file successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\ParsContract.vbproj">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="ParsContract.vbproj.user" Description="Project user file successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\ParsContract.vbproj.user">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="ApplicationEvents.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="AsnadCounter.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\AsnadCounter.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="Codec.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\Codec.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="CodeGenerator.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\CodeGenerator.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="CompileMonth.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\CompileMonth.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="CheckCode.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\CheckCode.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="rptAghsatFalse.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\rptAghsatFalse.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="FillData.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\FillData.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="GetSmsCenterInfo.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\GetSmsCenterInfo.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="GetSumCanceli.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\GetSumCanceli.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmGharardadCanceli.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmGharardadCanceli.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmGharardadCanceli.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmGharardadCanceli.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmCallGharardadCanceli.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmCallGharardadCanceli.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmCallGharardadCanceli.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmCallGharardadCanceli.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmCancelingContract.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmCancelingContract.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmCancelingContract.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmCancelingContract.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmCheckReport.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmCheckReport.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmCheckReport.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmCheckReport.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegBankMellatInfo.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegBankMellatInfo.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegBankMellatInfo.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegBankMellatInfo.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmPeygiri.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmPeygiri.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmPeygiri.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmPeygiri.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegBankPasargadInfo.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegBankPasargadInfo.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegBankPasargadInfo.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegBankPasargadInfo.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegMorajein.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegMorajein.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegMorajein.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegMorajein.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegMostahdisat.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegMostahdisat.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegMostahdisat.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegMostahdisat.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmSendSMS.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmSendSMS.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmSendSMS.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmSendSMS.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmViewBankInfo.designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmViewBankInfo.designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmViewBankInfo.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmViewBankInfo.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="GetWeekDay.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\GetWeekDay.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="Ghataat.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\Ghataat.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="GhestCount.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\GhestCount.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="InternetChecker.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\InternetChecker.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="rptBankInfo.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\rptBankInfo.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="RptBankRowInfo.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\RptBankRowInfo.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="RptChekz.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\RptChekz.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="RptGenAllSalesRpt.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\RptGenAllSalesRpt.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="RptGharardadLists.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\RptGharardadLists.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="rptMorajein.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\rptMorajein.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="RptResidDaryaftVajh.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\RptResidDaryaftVajh.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="RptMoghayeraat.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\RptMoghayeraat.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="RptMoghayerat.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\RptMoghayerat.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="RptResideDaryaft.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\RptResideDaryaft.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmDeleteGharadad.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmDeleteGharadad.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmDeleteGharadad.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmDeleteGharadad.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRptAghsat.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRptAghsat.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRptAghsat.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRptAghsat.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmChangeGharardad.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmChangeGharardad.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmChangeGharardad.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmChangeGharardad.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmSalesReport.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmSalesReport.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmSalesReport.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmSalesReport.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="rptAghsatTrue.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\rptAghsatTrue.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="RptPishGharardad.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\RptPishGharardad.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmrptFullReport.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmrptFullReport.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmrptFullReport.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmrptFullReport.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="RptGenFull.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\RptGenFull.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmVarizBeHesab.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmVarizBeHesab.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmVarizBeHesab.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmVarizBeHesab.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="Currency.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\Currency.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="CurrentDate.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\CurrentDate.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="DateConvertor.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\DateConvertor.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="DateMode.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\DateMode.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="FillGharardadTextXML.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\FillGharardadTextXML.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="FillSallerDbo.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\FillSallerDbo.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmCallGharardad.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmCallGharardad.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmCallGharardad.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmCallGharardad.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmCheck.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmCheck.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmCheck.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmCheck.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmHavale.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmHavale.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmHavale.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmHavale.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmLogin.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmLogin.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmLogin.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmLogin.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegBand.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegBand.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegBand.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegBand.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegForooshande.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegForooshande.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegForooshande.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegForooshande.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegGender.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegGender.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegGender.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegGender.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegGharardad.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegGharardad.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegGharardad.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegGharardad.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegGharardadText.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegGharardadText.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegGharardadText.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegGharardadText.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegMadeh.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegMadeh.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegMadeh.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegMadeh.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegMadehNo.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegMadehNo.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegMadehNo.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegMadehNo.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegMajmooe.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegMajmooe.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegMajmooe.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegMajmooe.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegNoeVekalat.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegNoeVekalat.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegNoeVekalat.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegNoeVekalat.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegOffice.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegOffice.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegOffice.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegOffice.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegTabaghe.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegTabaghe.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegTabaghe.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegTabaghe.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegTitle.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegTitle.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegTitle.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegTitle.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegVahedName.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegVahedName.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegVahedName.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegVahedName.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegVahedType.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegVahedType.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegVahedType.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegVahedType.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegVaziyateVahed.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegVaziyateVahed.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegVaziyateVahed.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegVaziyateVahed.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegView.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegView.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegView.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegView.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegZel.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegZel.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegZel.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegZel.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegZone.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegZone.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegZone.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegZone.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmReporter.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmReporter.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmReporter.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmReporter.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmSafteh.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmSafteh.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmSafteh.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmSafteh.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegSallerName.designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegSallerName.designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegSallerName.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegSallerName.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmSelectPlace.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmSelectPlace.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmSelectPlace.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmSelectPlace.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmTahator.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmTahator.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmTahator.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmTahator.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="FileScurity.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\FileScurity.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="GenderID.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\GenderID.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="GenerateCode.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\GenerateCode.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="rptPishGhrardad.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\rptPishGhrardad.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="rptSales.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\rptSales.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="SanadCodeGenerator.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\SanadCodeGenerator.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="GetSum.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\GetSum.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="MelliCode.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\MelliCode.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="MonyCheck.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\MonyCheck.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="My Project\Application.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="NumberToWord.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\NumberToWord.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="Parent.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\Parent.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="Parent.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\Parent.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="PrintGharardad.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\PrintGharardad.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="ReplaceData.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\ReplaceData.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="ReturnDate.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\ReturnDate.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="rptFullReport.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\rptFullReport.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="rptGharardad.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\rptGharardad.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="SendSMS.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\SendSMS.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="SendSMSConnection.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\SendSMSConnection.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="SharayetAghsat.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\SharayetAghsat.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="SharayetPishPardakht.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\SharayetPishPardakht.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="SQL.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\SQL.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="Counter.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\Counter.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="Test.Designer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\Test.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="Test.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\Test.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="TextToRTL.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\TextToRTL.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="TimeSpleater.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\TimeSpleater.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="UpdateClass.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\UpdateClass.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="Web References\WebService\Reference.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\Web References\WebService\Reference.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="WordTextReplacer.vb" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\WordTextReplacer.vb">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="My Project\Application.myapp" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="My Project\Settings.settings" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="Web References\WebService\send.wsdl" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\Web References\WebService\send.wsdl">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="app.config" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="Web References\WebService\MessagesBL1.datasource" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\Web References\WebService\MessagesBL1.datasource">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="Web References\WebService\Reference.map" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\Web References\WebService\Reference.map">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="Web References\WebService\send.disco" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\Web References\WebService\send.disco">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="My Computer 2.ico" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\My Computer 2.ico">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="rptAghsatFalse.rpt" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\rptAghsatFalse.rpt">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmGharardadCanceli.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmGharardadCanceli.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmCallGharardadCanceli.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmCallGharardadCanceli.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmCancelingContract.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmCancelingContract.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmCheckReport.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmCheckReport.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegBankMellatInfo.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegBankMellatInfo.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmPeygiri.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmPeygiri.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegBankPasargadInfo.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegBankPasargadInfo.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegMorajein.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegMorajein.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegMostahdisat.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegMostahdisat.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmSendSMS.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmSendSMS.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmViewBankInfo.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmViewBankInfo.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="Ghataat.rpt" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\Ghataat.rpt">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="rptBankInfo.rpt" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\rptBankInfo.rpt">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="RptBankRowInfo.rpt" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\RptBankRowInfo.rpt">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="RptChekz.rpt" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\RptChekz.rpt">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="RptGenAllSalesRpt.rpt" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\RptGenAllSalesRpt.rpt">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmDeleteGharadad.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmDeleteGharadad.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRptAghsat.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRptAghsat.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmChangeGharardad.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmChangeGharardad.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmrptFullReport.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmrptFullReport.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmSalesReport.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmSalesReport.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmVarizBeHesab.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmVarizBeHesab.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmCallGharardad.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmCallGharardad.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmCheck.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmCheck.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmHavale.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmHavale.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmLogin.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmLogin.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegBand.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegBand.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegForooshande.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegForooshande.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegGender.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegGender.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegGharardad.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegGharardad.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegGharardadText.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegGharardadText.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegMadeh.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegMadeh.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegMadehNo.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegMadehNo.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegMajmooe.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegMajmooe.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegNoeVekalat.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegNoeVekalat.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegOffice.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegOffice.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegTabaghe.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegTabaghe.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegTitle.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegTitle.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegVahedName.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegVahedName.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegVahedType.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegVahedType.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegVaziyateVahed.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegVaziyateVahed.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegView.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegView.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegZel.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegZel.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegZone.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegZone.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmReporter.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmReporter.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmSafteh.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmSafteh.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmRegSallerName.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmRegSallerName.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmSelectPlace.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmSelectPlace.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="frmTahator.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\frmTahator.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="My Project\Resources.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="Parent.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\Parent.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="rptAghsatTrue.rpt" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\rptAghsatTrue.rpt">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="rptFullReport.rpt" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\rptFullReport.rpt">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="rptGharardad.rpt" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\rptGharardad.rpt">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="RptGharardadLists.rpt" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\RptGharardadLists.rpt">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="RptMoghayerat.rpt" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\RptMoghayerat.rpt">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="rptMorajein.rpt" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\rptMorajein.rpt">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="rptPishGhrardad.rpt" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\rptPishGhrardad.rpt">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="rptResideDaryaft.rpt" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\rptResideDaryaft.rpt">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="rptSales.rpt" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\rptSales.rpt">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="Test.resx" Description="File successfully backed up as D:\Programming\Mehregan\Mehregan\Backup\Test.resx">
+</Event><Event ErrorLevel="0" Project="ParsContract" Source="ParsContract.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="ParsContract" Source="ParsContract.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="ParsContract.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ParsContract.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,583 @@
+D:\Programming\Mehregan\Mehregan\bin\Release\ParsContract.exe.config
+D:\Programming\Mehregan\Mehregan\obj\Release\ParsContract.exe
+D:\Programming\Mehregan\Mehregan\obj\Release\ParsContract.xml
+D:\Programming\Mehregan\Mehregan\obj\Release\ParsContract.pdb
+D:\Programming\Mehregan\Mehregan\obj\Release\ParsContract.XmlSerializers.dll
+D:\Programming\Mehregan\Mehregan\bin\Release\ParsContract.exe
+D:\Programming\Mehregan\Mehregan\bin\Release\ParsContract.XmlSerializers.dll
+D:\Programming\Mehregan\Mehregan\bin\Release\ParsContract.pdb
+D:\Programming\Mehregan\Mehregan\bin\Release\ParsContract.xml
+D:\Programming\Mehregan\Mehregan\obj\Release\ParsContract.vbprojResolveAssemblyReference.cache
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmGharardadCanceli.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCallGharardadCanceli.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCancelingContract.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCheckReport.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegBankMellatInfo.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPeygiri.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegBankPasargadInfo.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMorajein.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMostahdisat.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmSendSMS.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmViewBankInfo.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmDeleteGharadad.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRptAghsat.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmChangeGharardad.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmrptFullReport.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmSalesReport.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmVarizBeHesab.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCallGharardad.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteCheck.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteHavale.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmLogin.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegBand.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegForooshande.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegGender.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegGharardad.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegGharardadText.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMadeh.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMadehNo.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMajmooe.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegNoeVekalat.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegOffice.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegTabaghe.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegTitle.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegVahedName.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegVahedType.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegVaziyateVahed.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegView.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegZel.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegZone.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmReporter.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteSafteh.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegSallerName.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmSelectPlace.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteTahator.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.Resources.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.Parent.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\Mehregan.Test.resources
+D:\Programming\Mehregan\Mehregan\obj\Release\ParsContract.vbproj.GenerateResource.Cache
+F:\VAIO-PC\Programming\Mehregan\Mehregan\bin\Release\ParsContract.exe.config
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ParsContract.xml
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ParsContract.pdb
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ParsContract.XmlSerializers.dll
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmGharardadCanceli.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCallGharardadCanceli.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCancelingContract.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCheckReport.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegBankMellatInfo.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPeygiri.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegBankPasargadInfo.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMorajein.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMostahdisat.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmSendSMS.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmViewBankInfo.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmDeleteGharadad.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRptAghsat.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmChangeGharardad.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmrptFullReport.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmSalesReport.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmVarizBeHesab.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCallGharardad.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteCheck.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteHavale.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmLogin.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegBand.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegForooshande.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegGender.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegGharardad.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegGharardadText.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMadeh.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMadehNo.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMajmooe.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegNoeVekalat.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegOffice.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegTabaghe.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegTitle.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegVahedName.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegVahedType.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegVaziyateVahed.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegView.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegZel.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegZone.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmReporter.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteSafteh.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegSallerName.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmSelectPlace.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteTahator.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.Resources.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.Parent.resources
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.Test.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\bin\Release\ParsContract.exe.config
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ParsContract.xml
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ParsContract.pdb
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ParsContract.XmlSerializers.dll
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ParsContract.vbprojResolveAssemblyReference.cache
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmGharardadCanceli.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCallGharardadCanceli.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCancelingContract.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCheckReport.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegBankMellatInfo.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPeygiri.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegBankPasargadInfo.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMorajein.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMostahdisat.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmSendSMS.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmViewBankInfo.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmDeleteGharadad.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRptAghsat.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmChangeGharardad.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmrptFullReport.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmSalesReport.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmVarizBeHesab.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCallGharardad.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteCheck.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteHavale.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmLogin.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegBand.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegForooshande.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegGender.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegGharardad.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegGharardadText.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMadeh.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMadehNo.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMajmooe.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegNoeVekalat.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegOffice.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegTabaghe.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegTitle.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegVahedName.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegVahedType.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegVaziyateVahed.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegView.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegZel.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegZone.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmReporter.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteSafteh.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegSallerName.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmSelectPlace.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteTahator.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.Resources.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.Parent.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.Test.resources
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ParsContract.vbproj.GenerateResource.Cache
+H:\VAIO-PC\Programming\Mehregan\Mehregan\bin\Release\ParsContract.exe
+H:\VAIO-PC\Programming\Mehregan\Mehregan\bin\Release\ParsContract.XmlSerializers.dll
+H:\VAIO-PC\Programming\Mehregan\Mehregan\bin\Release\ParsContract.pdb
+H:\VAIO-PC\Programming\Mehregan\Mehregan\bin\Release\ParsContract.xml
+H:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ParsContract.exe
+J:\VAIO-PC\Programming\Mehregan\Mehregan\bin\Release\ParsContract.exe.config
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ParsContract.exe
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ParsContract.xml
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ParsContract.pdb
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ParsContract.XmlSerializers.dll
+J:\VAIO-PC\Programming\Mehregan\Mehregan\bin\Release\ParsContract.exe
+J:\VAIO-PC\Programming\Mehregan\Mehregan\bin\Release\ParsContract.XmlSerializers.dll
+J:\VAIO-PC\Programming\Mehregan\Mehregan\bin\Release\ParsContract.pdb
+J:\VAIO-PC\Programming\Mehregan\Mehregan\bin\Release\ParsContract.xml
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ResolveAssemblyReference.cache
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmGharardadCanceli.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCallGharardadCanceli.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCancelingContract.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCheckReport.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegBankMellatInfo.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPeygiri.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegBankPasargadInfo.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMorajein.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMostahdisat.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmSendSMS.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmViewBankInfo.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmDeleteGharadad.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRptAghsat.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmChangeGharardad.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmrptFullReport.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmSalesReport.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmVarizBeHesab.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCallGharardad.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteCheck.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteHavale.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmLogin.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegBand.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegForooshande.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegGender.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegGharardad.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegGharardadText.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMadeh.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMadehNo.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMajmooe.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegNoeVekalat.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegOffice.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegTabaghe.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegTitle.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegVahedName.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegVahedType.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegVaziyateVahed.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegView.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegZel.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegZone.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmReporter.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteSafteh.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegSallerName.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmSelectPlace.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteTahator.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.Resources.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.Parent.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.Test.resources
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\GenerateResource-ResGen.read.1.tlog
+J:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\GenerateResource-ResGen.write.1.tlog
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ResolveAssemblyReference.cache
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmGharardadCanceli.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCallGharardadCanceli.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCancelingContract.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCheckReport.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegBankMellatInfo.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPeygiri.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegBankPasargadInfo.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMorajein.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMostahdisat.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmSendSMS.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmViewBankInfo.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmDeleteGharadad.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRptAghsat.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmChangeGharardad.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmrptFullReport.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmSalesReport.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmVarizBeHesab.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmCallGharardad.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteCheck.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteHavale.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmLogin.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegBand.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegForooshande.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegGender.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegGharardad.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegGharardadText.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMadeh.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMadehNo.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegMajmooe.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegNoeVekalat.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegOffice.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegTabaghe.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegTitle.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegVahedName.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegVahedType.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegVaziyateVahed.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegView.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegZel.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegZone.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmReporter.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteSafteh.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmRegSallerName.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmSelectPlace.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.frmPardakhteTahator.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.Resources.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.Parent.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\Mehregan.Test.resources
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\GenerateResource-ResGen.read.1.tlog
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\GenerateResource-ResGen.write.1.tlog
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ParsContract.exe
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ParsContract.xml
+K:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ParsContract.pdb
+K:\VAIO-PC\Programming\Mehregan\Mehregan\bin\Release\ParsContract.exe.config
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ParsContract.exe
+F:\VAIO-PC\Programming\Mehregan\Mehregan\bin\Release\ParsContract.exe
+F:\VAIO-PC\Programming\Mehregan\Mehregan\bin\Release\ParsContract.XmlSerializers.dll
+F:\VAIO-PC\Programming\Mehregan\Mehregan\bin\Release\ParsContract.pdb
+F:\VAIO-PC\Programming\Mehregan\Mehregan\bin\Release\ParsContract.xml
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ResolveAssemblyReference.cache
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\GenerateResource-ResGen.read.1.tlog
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ResGen.read.1.tlog
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\GenerateResource-ResGen.write.1.tlog
+F:\VAIO-PC\Programming\Mehregan\Mehregan\obj\Release\ResGen.write.1.tlog
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\ParsContract.exe.config
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.exe
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.xml
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.pdb
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.XmlSerializers.dll
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\ParsContract.exe.config
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.exe
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.xml
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.pdb
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.XmlSerializers.dll
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\ParsContract.exe
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\ParsContract.XmlSerializers.dll
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\ParsContract.pdb
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\ParsContract.xml
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.vbprojResolveAssemblyReference.cache
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmGharardadCanceli.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCallGharardadCanceli.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCancelingContract.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCheckReport.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegBankMellatInfo.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPeygiri.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegBankPasargadInfo.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMorajein.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMostahdisat.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmSendSMS.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmViewBankInfo.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmDeleteGharadad.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRptAghsat.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmChangeGharardad.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmrptFullReport.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmSalesReport.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmVarizBeHesab.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCallGharardad.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteCheck.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteHavale.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmLogin.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegBand.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegForooshande.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegGender.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegGharardad.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegGharardadText.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMadeh.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMadehNo.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMajmooe.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegNoeVekalat.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegOffice.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegTabaghe.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegTitle.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegVahedName.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegVahedType.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegVaziyateVahed.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegView.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegZel.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegZone.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmReporter.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteSafteh.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegSallerName.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmSelectPlace.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteTahator.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.Resources.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.Parent.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.Test.resources
+H:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.vbproj.GenerateResource.Cache
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.vbprojResolveAssemblyReference.cache
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmGharardadCanceli.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCallGharardadCanceli.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCancelingContract.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCheckReport.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegBankMellatInfo.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPeygiri.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegBankPasargadInfo.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMorajein.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMostahdisat.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmSendSMS.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmViewBankInfo.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmDeleteGharadad.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRptAghsat.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmChangeGharardad.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmrptFullReport.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmSalesReport.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmVarizBeHesab.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCallGharardad.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteCheck.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteHavale.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmLogin.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegBand.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegForooshande.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegGender.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegGharardad.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegGharardadText.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMadeh.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMadehNo.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMajmooe.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegNoeVekalat.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegOffice.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegTabaghe.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegTitle.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegVahedName.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegVahedType.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegVaziyateVahed.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegView.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegZel.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegZone.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmReporter.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteSafteh.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegSallerName.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmSelectPlace.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteTahator.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.Resources.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.Parent.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.Test.resources
+F:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.vbproj.GenerateResource.Cache
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\ParsContract.exe.config
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\ParsContract.exe
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\ParsContract.XmlSerializers.dll
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\ParsContract.pdb
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\ParsContract.xml
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\Microsoft.Office.Interop.Word.dll
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\office.dll
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\Microsoft.Vbe.Interop.dll
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\Microsoft.Office.Interop.Excel.xml
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\Microsoft.Office.Interop.Word.xml
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\office.xml
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.vbprojResolveAssemblyReference.cache
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmGharardadCanceli.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCallGharardadCanceli.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCancelingContract.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCheckReport.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegBankMellatInfo.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPeygiri.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegBankPasargadInfo.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMorajein.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMostahdisat.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmSendSMS.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmViewBankInfo.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmDeleteGharadad.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRptAghsat.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmChangeGharardad.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmrptFullReport.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmSalesReport.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmVarizBeHesab.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCallGharardad.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteCheck.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteHavale.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmLogin.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegBand.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegForooshande.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegGender.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegGharardad.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegGharardadText.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMadeh.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMadehNo.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMajmooe.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegNoeVekalat.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegOffice.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegTabaghe.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegTitle.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegVahedName.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegVahedType.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegVaziyateVahed.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegView.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegZel.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegZone.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmReporter.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteSafteh.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegSallerName.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmSelectPlace.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteTahator.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.Resources.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.Parent.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.Test.resources
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.vbproj.GenerateResource.Cache
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.exe
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.xml
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.pdb
+E:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.XmlSerializers.dll
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\ParsContract.exe.config
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.exe
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.xml
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.pdb
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.XmlSerializers.dll
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\ParsContract.exe
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\ParsContract.XmlSerializers.dll
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\ParsContract.pdb
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\bin\Release\ParsContract.xml
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.vbprojResolveAssemblyReference.cache
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmGharardadCanceli.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCallGharardadCanceli.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCancelingContract.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCheckReport.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegBankMellatInfo.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPeygiri.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegBankPasargadInfo.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMorajein.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMostahdisat.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmSendSMS.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmViewBankInfo.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmDeleteGharadad.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRptAghsat.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmChangeGharardad.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmrptFullReport.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmSalesReport.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmVarizBeHesab.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCallGharardad.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteCheck.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteHavale.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmLogin.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegBand.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegForooshande.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegGender.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegGharardad.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegGharardadText.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMadeh.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMadehNo.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMajmooe.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegNoeVekalat.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegOffice.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegTabaghe.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegTitle.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegVahedName.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegVahedType.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegVaziyateVahed.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegView.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegZel.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegZone.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmReporter.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteSafteh.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegSallerName.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmSelectPlace.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteTahator.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.Resources.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.Parent.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\Mehregan.Test.resources
+D:\VAIO-PC\Programming\khane khorshid\khane khorshid\obj\Release\ParsContract.vbproj.GenerateResource.Cache
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\bin\Release\ParsContract.exe.config
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\ParsContract.exe
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\ParsContract.xml
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\ParsContract.pdb
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\ParsContract.XmlSerializers.dll
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\bin\Release\ParsContract.exe
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\bin\Release\ParsContract.XmlSerializers.dll
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\bin\Release\ParsContract.pdb
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\bin\Release\ParsContract.xml
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\ParsContract.vbprojResolveAssemblyReference.cache
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmGharardadCanceli.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCallGharardadCanceli.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCancelingContract.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCheckReport.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegBankMellatInfo.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPeygiri.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegBankPasargadInfo.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMorajein.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMostahdisat.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmSendSMS.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmViewBankInfo.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmDeleteGharadad.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRptAghsat.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmChangeGharardad.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmrptFullReport.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmSalesReport.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmVarizBeHesab.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmCallGharardad.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteCheck.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteHavale.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmLogin.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegBand.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegForooshande.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegGender.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegGharardad.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegGharardadText.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMadeh.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMadehNo.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegMajmooe.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegNoeVekalat.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegOffice.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegTabaghe.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegTitle.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegVahedName.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegVahedType.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegVaziyateVahed.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegView.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegZel.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegZone.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmReporter.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteSafteh.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmRegSallerName.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmSelectPlace.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.frmPardakhteTahator.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.Resources.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.Parent.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\Mehregan.Test.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\khane khorshid\khane khorshid\obj\Release\ParsContract.vbproj.GenerateResource.Cache

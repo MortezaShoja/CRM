@@ -1,0 +1,844 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6E655983-C69D-4CA3-977A-CE0D76B96220}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Mehregan.My.MyApplication</StartupObject>
+    <RootNamespace>Mehregan</RootNamespace>
+    <AssemblyName>ParsContract</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <ApplicationIcon>My Computer 2.ico</ApplicationIcon>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ParsContract.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ParsContract.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Word, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="AsnadCounter.vb" />
+    <Compile Include="Codec.vb" />
+    <Compile Include="CodeGenerator.vb" />
+    <Compile Include="CompileMonth.vb" />
+    <Compile Include="CheckCode.vb" />
+    <Compile Include="rptAghsatFalse.vb">
+      <DependentUpon>rptAghsatFalse.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FillData.vb" />
+    <Compile Include="GetSmsCenterInfo.vb" />
+    <Compile Include="GetSumCanceli.vb" />
+    <Compile Include="frmGharardadCanceli.Designer.vb">
+      <DependentUpon>frmGharardadCanceli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGharardadCanceli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCallGharardadCanceli.Designer.vb">
+      <DependentUpon>frmCallGharardadCanceli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCallGharardadCanceli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCancelingContract.Designer.vb">
+      <DependentUpon>frmCancelingContract.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCancelingContract.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckReport.Designer.vb">
+      <DependentUpon>frmCheckReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegBankMellatInfo.Designer.vb">
+      <DependentUpon>frmRegBankMellatInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegBankMellatInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPeygiri.Designer.vb">
+      <DependentUpon>frmPeygiri.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPeygiri.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegBankPasargadInfo.Designer.vb">
+      <DependentUpon>frmRegBankPasargadInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegBankPasargadInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegMorajein.Designer.vb">
+      <DependentUpon>frmRegMorajein.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegMorajein.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegMostahdisat.Designer.vb">
+      <DependentUpon>frmRegMostahdisat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegMostahdisat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSendSMS.Designer.vb">
+      <DependentUpon>frmSendSMS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSendSMS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewBankInfo.designer.vb">
+      <DependentUpon>frmViewBankInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewBankInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GetWeekDay.vb" />
+    <Compile Include="Ghataat.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ghataat.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GhestCount.vb" />
+    <Compile Include="InternetChecker.vb" />
+    <Compile Include="rptBankInfo.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptBankInfo.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RptBankRowInfo.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptBankRowInfo.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RptChekz.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptChekz.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RptGenAllSalesRpt.vb">
+      <DependentUpon>RptGenAllSalesRpt.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RptGharardadLists.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptGharardadLists.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptMorajein.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptMorajein.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RptResidDaryaftVajh.vb" />
+    <Compile Include="RptMoghayeraat.vb" />
+    <Compile Include="RptMoghayerat.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptMoghayerat.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RptResideDaryaft.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptResideDaryaft.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="frmDeleteGharadad.Designer.vb">
+      <DependentUpon>frmDeleteGharadad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeleteGharadad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRptAghsat.Designer.vb">
+      <DependentUpon>frmRptAghsat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRptAghsat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangeGharardad.Designer.vb">
+      <DependentUpon>frmChangeGharardad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmChangeGharardad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSalesReport.Designer.vb">
+      <DependentUpon>frmSalesReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalesReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptAghsatTrue.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptAghsatTrue.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RptPishGharardad.vb" />
+    <Compile Include="frmrptFullReport.Designer.vb">
+      <DependentUpon>frmrptFullReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmrptFullReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RptGenFull.vb" />
+    <Compile Include="frmVarizBeHesab.Designer.vb">
+      <DependentUpon>frmVarizBeHesab.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVarizBeHesab.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Currency.vb" />
+    <Compile Include="CurrentDate.vb" />
+    <Compile Include="DateConvertor.vb" />
+    <Compile Include="DateMode.vb" />
+    <Compile Include="FillGharardadTextXML.vb" />
+    <Compile Include="FillSallerDbo.vb" />
+    <Compile Include="frmCallGharardad.Designer.vb">
+      <DependentUpon>frmCallGharardad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCallGharardad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheck.Designer.vb">
+      <DependentUpon>frmCheck.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheck.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHavale.Designer.vb">
+      <DependentUpon>frmHavale.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHavale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegBand.Designer.vb">
+      <DependentUpon>frmRegBand.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegBand.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegForooshande.Designer.vb">
+      <DependentUpon>frmRegForooshande.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegForooshande.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegGender.Designer.vb">
+      <DependentUpon>frmRegGender.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegGender.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegGharardad.Designer.vb">
+      <DependentUpon>frmRegGharardad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegGharardad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegGharardadText.Designer.vb">
+      <DependentUpon>frmRegGharardadText.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegGharardadText.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegMadeh.Designer.vb">
+      <DependentUpon>frmRegMadeh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegMadeh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegMadehNo.Designer.vb">
+      <DependentUpon>frmRegMadehNo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegMadehNo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegMajmooe.Designer.vb">
+      <DependentUpon>frmRegMajmooe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegMajmooe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegNoeVekalat.Designer.vb">
+      <DependentUpon>frmRegNoeVekalat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegNoeVekalat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegOffice.Designer.vb">
+      <DependentUpon>frmRegOffice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegOffice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegTabaghe.Designer.vb">
+      <DependentUpon>frmRegTabaghe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegTabaghe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegTitle.Designer.vb">
+      <DependentUpon>frmRegTitle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegTitle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegVahedName.Designer.vb">
+      <DependentUpon>frmRegVahedName.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegVahedName.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegVahedType.Designer.vb">
+      <DependentUpon>frmRegVahedType.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegVahedType.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegVaziyateVahed.Designer.vb">
+      <DependentUpon>frmRegVaziyateVahed.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegVaziyateVahed.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegView.Designer.vb">
+      <DependentUpon>frmRegView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegZel.Designer.vb">
+      <DependentUpon>frmRegZel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegZel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegZone.Designer.vb">
+      <DependentUpon>frmRegZone.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegZone.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporter.Designer.vb">
+      <DependentUpon>frmReporter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSafteh.Designer.vb">
+      <DependentUpon>frmSafteh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSafteh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegSallerName.designer.vb">
+      <DependentUpon>frmRegSallerName.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegSallerName.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectPlace.Designer.vb">
+      <DependentUpon>frmSelectPlace.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectPlace.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTahator.Designer.vb">
+      <DependentUpon>frmTahator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTahator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FileScurity.vb" />
+    <Compile Include="GenderID.vb" />
+    <Compile Include="GenerateCode.vb" />
+    <Compile Include="rptPishGhrardad.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPishGhrardad.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptSales.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptSales.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SanadCodeGenerator.vb" />
+    <Compile Include="GetSum.vb" />
+    <Compile Include="MelliCode.vb" />
+    <Compile Include="MonyCheck.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NumberToWord.vb" />
+    <Compile Include="Parent.Designer.vb">
+      <DependentUpon>Parent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Parent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintGharardad.vb" />
+    <Compile Include="ReplaceData.vb" />
+    <Compile Include="ReturnDate.vb" />
+    <Compile Include="rptFullReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptFullReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptGharardad.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptGharardad.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SendSMS.vb" />
+    <Compile Include="SendSMSConnection.vb" />
+    <Compile Include="SharayetAghsat.vb" />
+    <Compile Include="SharayetPishPardakht.vb" />
+    <Compile Include="SQL.vb" />
+    <Compile Include="Counter.vb" />
+    <Compile Include="Test.Designer.vb">
+      <DependentUpon>Test.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Test.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TextToRTL.vb" />
+    <Compile Include="TimeSpleater.vb" />
+    <Compile Include="UpdateClass.vb" />
+    <Compile Include="Web References\WebService\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="WordTextReplacer.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="rptAghsatFalse.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptAghsatFalse.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGharardadCanceli.resx">
+      <DependentUpon>frmGharardadCanceli.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCallGharardadCanceli.resx">
+      <DependentUpon>frmCallGharardadCanceli.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCancelingContract.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCancelingContract.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCheckReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegBankMellatInfo.resx">
+      <DependentUpon>frmRegBankMellatInfo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPeygiri.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmPeygiri.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegBankPasargadInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRegBankPasargadInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegMorajein.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRegMorajein.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegMostahdisat.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRegMostahdisat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSendSMS.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSendSMS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewBankInfo.resx">
+      <DependentUpon>frmViewBankInfo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ghataat.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Ghataat.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptBankInfo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptBankInfo.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptBankRowInfo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptBankRowInfo.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptChekz.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptChekz.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptGenAllSalesRpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptGenAllSalesRpt.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeleteGharadad.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmDeleteGharadad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRptAghsat.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRptAghsat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangeGharardad.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmChangeGharardad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmrptFullReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmrptFullReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalesReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSalesReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVarizBeHesab.resx">
+      <DependentUpon>frmVarizBeHesab.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCallGharardad.resx">
+      <DependentUpon>frmCallGharardad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheck.resx">
+      <DependentUpon>frmCheck.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHavale.resx">
+      <DependentUpon>frmHavale.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegBand.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRegBand.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegForooshande.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRegForooshande.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegGender.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRegGender.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegGharardad.resx">
+      <DependentUpon>frmRegGharardad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegGharardadText.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRegGharardadText.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegMadeh.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRegMadeh.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegMadehNo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRegMadehNo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegMajmooe.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRegMajmooe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegNoeVekalat.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRegNoeVekalat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegOffice.resx">
+      <DependentUpon>frmRegOffice.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegTabaghe.resx">
+      <DependentUpon>frmRegTabaghe.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegTitle.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRegTitle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegVahedName.resx">
+      <DependentUpon>frmRegVahedName.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegVahedType.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRegVahedType.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegVaziyateVahed.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRegVaziyateVahed.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegView.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRegView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegZel.resx">
+      <DependentUpon>frmRegZel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegZone.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRegZone.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporter.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmReporter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSafteh.resx">
+      <DependentUpon>frmSafteh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegSallerName.resx">
+      <DependentUpon>frmRegSallerName.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectPlace.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSelectPlace.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTahator.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmTahator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parent.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Parent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptAghsatTrue.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptAghsatTrue.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptFullReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptFullReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptGharardad.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptGharardad.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptGharardadLists.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptGharardadLists.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptMoghayerat.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptMoghayerat.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptMorajein.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptMorajein.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPishGhrardad.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPishGhrardad.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptResideDaryaft.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptResideDaryaft.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptSales.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptSales.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Test.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Web References\WebService\send.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="My Computer 2.ico" />
+    <None Include="app.config" />
+    <None Include="Web References\WebService\MessagesBL1.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\WebService\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+    <None Include="Web References\WebService\send.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3924545A-F8E2-475A-B1A4-05175BC41E50}" />
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://sms.webone.ir/post/send.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\WebService\</RelPath>
+      <UpdateFromURL>http://sms.webone.ir/post/send.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>MySettings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>ParsContract_ir_webone_sms_Send</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
